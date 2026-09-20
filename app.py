@@ -25,6 +25,8 @@ body {
 
 .gradio-container {
     max-width: 1100px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
     background-color: transparent !important;
     border: none !important;
     padding-top: 1rem !important;
