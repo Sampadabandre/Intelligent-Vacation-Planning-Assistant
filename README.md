@@ -121,11 +121,7 @@ This will launch a local web server (usually at `http://127.0.0.1:7860`). Open t
 ## 14. Sample Output
 The application generates a full 3-day itinerary focusing on Goa's beaches and seafood, showing an estimated budget breakdown (around 13,200 INR depending on exact heuristics) and declaring whether the user is within budget.
 
-## 15. Screenshots
 
-![App Banner](assets/banner.jpg)
-
-*(Add more screenshots of the Gradio interface and the generated outputs here)*
 
 ## 16. Limitations
 - Budget estimates use hardcoded heuristics and do not reflect real-time live prices.
